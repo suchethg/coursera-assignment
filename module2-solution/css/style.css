@@ -1,12 +1,28 @@
+*{
+   box-sizing: border-box;
+}
 h1{
 margin-bottom:30px;
+text-align: center;
 }
-#box{
+.content{
    background-color: gray;
+   border: 1px solid black;
+  
+   width: 400px;
+}
+.col-md-3{
+    width: 33.33%;
 }
 h2{
     padding: 10px;
+    border: 1px solid black;
+    float: right;
+    position: relative;
+
+  
 }
+
 #beef{
     
     background-color: red;
