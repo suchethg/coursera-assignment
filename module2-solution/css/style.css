@@ -51,9 +51,7 @@ p{
     padding: 5px;
     background-color: indianred;
 }
-.row{
-    width: 100%;
-}
+
 /* Desktop view */
 
 @media (min-width: 992px) {
