@@ -1,6 +1,9 @@
 *{
    box-sizing: border-box;
 }
+#box{
+    width: 100%;
+}
 h1{
 margin-bottom:30px;
 text-align: center;
@@ -9,11 +12,14 @@ text-align: center;
    background-color: gray;
    border: 1px solid black;
   
-   width: 400px;
+   width: 33.33%;
+   height: 150px;
+   margin-right: auto;
+   margin-right: auto;
+
 }
-.col-md-3{
-    width: 33.33%;
-}
+
+
 h2{
     padding: 10px;
     border: 1px solid black;
