@@ -1,13 +1,9 @@
-*{
-   box-sizing: border-box;
-}
-#box{
-    width: 100%;
-}
+
 h1{
 margin-bottom:30px;
 text-align: center;
 }
+
 .content{
    background-color: gray;
    border: 1px solid black;
