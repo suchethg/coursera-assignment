@@ -1,4 +1,19 @@
 h1{
-   margin: 60px;
-    text-align: center;
+margin-bottom:30px;
+}
+#box{
+   background-color: gray;
+}
+h2{
+    padding: 10px;
+}
+#beef{
+    
+    background-color: red;
+}
+#chicken{
+    background-color: sandybrown;
+}
+#sushi{
+    background-color: greenyellow;
 }
