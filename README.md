@@ -1,2 +1,2 @@
 # coursera-assignment
-coursera assignment repository
+ Coursera assignment repository
